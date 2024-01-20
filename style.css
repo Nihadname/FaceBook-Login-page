@@ -1,0 +1,63 @@
+body{
+    background: #f0f2f5;
+}
+
+.loginPage {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 396px; 
+    border-radius: 8px;
+    height: 313.55px;
+    margin: 0 auto; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  }
+  .loginPage span{
+    font-size: 23px;
+    line-height: 22px;
+    text-align: center;
+    margin-top:-30px ;
+    padding: 19px;
+    
+  }
+   .textInput{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 15px 13px;
+    width: 330px;
+    border: 1px solid #dddfe2;
+    margin: 12px;
+    outline: none;
+   }
+   .passwordInput{
+    border-radius: 6px;
+    font-size: 17px;
+    border: 1px solid #dddfe2;
+    margin: 12px;
+    width: 330px; 
+    padding: 15px 13px;
+
+   }
+   .button{
+    font-size: 27px;
+    border-radius: 32px;
+    height: 50px;
+    width: 335px;
+    margin: 12px;
+    background-color: #1877f2;
+    border: none;
+    color: white;
+    font-weight: bold;
+   }
+   .ForgettenAcount{
+text-decoration: none;
+   }
+  .image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+        width: 240px;
+  }
